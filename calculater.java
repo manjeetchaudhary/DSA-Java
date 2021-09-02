@@ -10,7 +10,7 @@ public class calculater {
 
         int ans;
         char op;
-        System.out.println("enter the operator\n");
+        System.out.println("enter the operator5\n");
 
         op=input.next().charAt(0);
 
@@ -38,16 +38,6 @@ public class calculater {
         else {
             System.out.println("Please enter a valid operator.");
         }
-
-
-
-
-
-
-        
-        
-
-
 
     }
     
